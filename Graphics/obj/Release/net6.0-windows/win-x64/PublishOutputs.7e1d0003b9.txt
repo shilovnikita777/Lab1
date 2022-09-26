@@ -1,0 +1,2 @@
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\publish\win-x64\GraphicsTest.pdb
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\publish\win-x64\GraphicsTest.exe

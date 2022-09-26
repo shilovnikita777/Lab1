@@ -1,0 +1,17 @@
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\win-x64\GraphicsTest.exe
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\win-x64\GraphicsTest.deps.json
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\win-x64\GraphicsTest.runtimeconfig.json
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\win-x64\GraphicsTest.dll
+B:\Projects\Visual Studio Projects\Graphics\Graphics\bin\Release\net6.0-windows\win-x64\GraphicsTest.pdb
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.csproj.AssemblyReference.cache
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.Form1.resources
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.csproj.GenerateResource.cache
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.AssemblyInfoInputs.cache
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.AssemblyInfo.cs
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.csproj.CoreCompileInputs.cache
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.dll
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\refint\GraphicsTest.dll
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.pdb
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\GraphicsTest.genruntimeconfig.cache
+B:\Projects\Visual Studio Projects\Graphics\Graphics\obj\Release\net6.0-windows\win-x64\ref\GraphicsTest.dll
